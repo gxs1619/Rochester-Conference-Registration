@@ -41,3 +41,7 @@ input{
     background: lightgray;
     color: black;
 }
+.buttons{
+    margin:auto;
+    text-align:Center;
+}

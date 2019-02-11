@@ -117,4 +117,7 @@ body {
 #centeredmenu ul li.hover ul { /* This line is required for IE 6 and below */
     display:block; /* Show the sub menus */
 }
-
+#RochesterImage{
+    margin:auto;
+    text-align:Center;
+}
