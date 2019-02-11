@@ -45,3 +45,15 @@ input{
     margin:auto;
     text-align:Center;
 }
+.radios{
+    display: grid;
+    margin: auto;
+    position: relative;
+    padding: 5px;
+}
+.paymentMethod{
+    display: grid;
+    margin: auto;
+    position: relative;
+    padding: 5px;
+}
