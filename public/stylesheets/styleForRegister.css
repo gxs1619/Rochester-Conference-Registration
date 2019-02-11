@@ -1,0 +1,43 @@
+*{
+    font-family: Asap, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: black;
+    background-color: #052f5f;
+}
+
+header{
+    background-color: #7ca5b8;
+    color: black;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    text-align: center;
+}
+.registerForm{
+    width: 40%;
+    height: 20%;
+    background: #FFFFFF;
+    position: relative;
+    border-radius: 3%;
+    margin: 10% auto;
+    text-align:center;
+    padding: 10px;
+}
+.createAccount{
+    position: relative;
+    padding-bottom: 5%;
+}
+input{
+    width: 50%;
+    padding: 1%;
+    box-sizing: border-box;
+    box-shadow: #0d0d0d;
+}
+#back{
+    background: lightgray;
+    color: black;
+}
